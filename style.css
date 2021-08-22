@@ -10,6 +10,7 @@
 }
 body{
         background-color: cornflowerblue;
+    text-align: center;
 }
 .menu{
     list-style: none;
@@ -19,4 +20,10 @@ body{
     right: 30px;
     cursor: pointer;
     color: black;
+}
+p{
+    font-size: 20px;
+}
+h1 {
+    font-size: 30px
 }
